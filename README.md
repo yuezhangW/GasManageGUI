@@ -1,2 +1,4 @@
 # GasManageGUI
  气体信息管理系统源码
+系统需要的程序在Py_Main文件夹中，其余的文件夹是GUI开发时用到的项目文件
+Main主程序为Py_Main中的appMain.py文件
